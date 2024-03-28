@@ -1,7 +1,6 @@
 ﻿using System;
 
-namespace ass3
-{
+
     public class BaseClass
     {
 
@@ -64,4 +63,4 @@ namespace ass3
             Console.WriteLine(kim.IsValidated());
         }
     }
-}
+
