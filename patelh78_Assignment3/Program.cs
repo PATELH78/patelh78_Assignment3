@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace ValidationExample
+namespace ass3
 {
     public class BaseClass
     {
